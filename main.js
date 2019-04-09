@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 function closeModal2(){
     // remove a classe 'is-active' para que o modal se recolha
     document.getElementById('modal2').classList.remove('is-active')
-    // mostrando o resaultado no terminal
+    // mostrando o resaultado no console
     console.log( document.getElementById('modal2').classList)
 }
 
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 function closeModal3(){
     // remove a classe 'is-active' para que o modal se recolha
     document.getElementById('modal3').classList.remove('is-active')
-    // mostrando o resaultado no terminal
+    // mostrando o resaultado no console
     console.log( document.getElementById('modal3').classList)
 }
 
@@ -64,6 +64,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 function closeModal4(){
     // remove a classe 'is-active' para que o modal se recolha
     document.getElementById('modal4').classList.remove('is-active')
-    // mostrando o resaultado no terminal
+    // mostrando o resaultado no console
     console.log( document.getElementById('modal4').classList)
 }
